@@ -1,0 +1,25 @@
+{
+  "name": "css-js-module5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server",
+    "start": "concurrently \"lite-server\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/russelyang/css-js-module5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/russelyang/css-js-module5/issues"
+  },
+  "homepage": "https://github.com/russelyang/css-js-module5#readme",
+  "devDependencies": {
+    "concurrently": "^3.1.0",
+    "lite-server": "^2.2.2"
+  }
+}
